@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  background: blue;
+  width: 100%;
+}
+
+nav .brand-logo {
+  position: absolute;
+  color: #fff;
+  display: inline-block;
+  font-size: 2.1rem;
+  padding: 0;
+  padding: 0 15px;
+}
+
+.z-depth-2 {
+  padding: 20px;
+}
+
+.sidenav {
+  width: 250px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+#service {
+  padding: 30px 0;
+  text-align: center;
+}
+
+#service .z-depth-2 .material-icons {
+  font-size: 55px;
+}
+
+.gallery {
+  text-align: center;
+}
+
+.gallery .g-image img {
+  width: 100%;
+}
+
+.latest-services {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.card {
+  text-align: left;
+}
+
+.navbar-fixed {
+  position: relative;
+  height: 56px;
+  z-index: 1000;
+}
+/*# sourceMappingURL=style.css.map */
